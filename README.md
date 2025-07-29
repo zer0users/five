@@ -26,7 +26,7 @@ define class "shell"
 # After class shell and function main, you exit five.
 print('Hi!')
 ```
-For compile:
+🏃‍➡️ **For compile:**
 
 ```bash
 five compile app.four
