@@ -7,4 +7,18 @@ Five is the alternative of **four**
 
 I made five with the help of Jehovah, Five is a programming language, like four, for create applications, but with more functions, more updated.
 
-<h1>Five Example</h1>
+**Five Example**
+
+```five
+> app.four
+> This is an example with love
+project.name = "MyApplication"
+project.platform = "all"
+require "shell"
+shell.set = "python3"
+> You need to make a class named shell, and a function inside the class named "main".
+define class "shell"
+  function "main"
+# After class shell and function main, you exit five.
+print('Hi!')
+```
