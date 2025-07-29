@@ -5,7 +5,8 @@ Five is the alternative of **four**
 
 **Five Logo**
 
-<img width="225" height="225" alt="image" src="https://github.com/user-attachments/assets/4ad581b0-7610-4e0d-b8f8-3f2b28ec3227" />
+<img width="275" height="183" alt="image" src="https://github.com/user-attachments/assets/7db33991-6b1d-4cf4-a76a-53fd6cc1aebd" />
+
 
 
 I made five with the help of Jehovah, Five is a programming language, like four, for create applications, but with more functions, more updated.
