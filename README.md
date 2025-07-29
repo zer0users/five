@@ -1,7 +1,7 @@
 # five
-With the help of Jehovah. We made an programming language. Five.
+💚 **With the help of Jehovah. We made an programming language. Five.**
 
-Five is the alternative of **four**
+🔢 **Five is the alternative of four**
 
 **Five Logo**
 
@@ -9,7 +9,7 @@ Five is the alternative of **four**
 
 
 
-I made five with the help of Jehovah, Five is a programming language, like four, for create applications, but with more functions, more updated.
+**I made five with the help of Jehovah, Five is a programming language, like four, for create applications, but with more functions, more updated.**
 
 **Five Example**
 
@@ -31,7 +31,7 @@ For compile:
 ```bash
 five compile app.four
 ```
-For run:
+🧑‍💻 **For run:**
 
 ```bash
 five run MyApplication.app
