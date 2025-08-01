@@ -14,7 +14,7 @@
 **Five Example**
 
 ```five
-> app.four
+> app.five
 > This is an example with love
 project.name = "MyApplication"
 project.platform = "all"
@@ -29,7 +29,7 @@ print('Hi!')
 **For compile:**
 
 ```bash
-five compile app.four
+five compile app.five
 ```
 🧑‍💻 **For run:**
 
